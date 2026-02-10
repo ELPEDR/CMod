@@ -1,0 +1,10 @@
+{
+  "c2dictionary": true,
+  "data": {
+    "name": "sonic",
+    "back": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/back.png",
+    "title": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/title.png",
+    "titleicon": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/titleicon.png",
+    "player": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/realsonic.png"
+  }
+}
