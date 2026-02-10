@@ -4,6 +4,7 @@
     "name": "sonic",
     "back": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/back.png",
     "title": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/title.png",
-    "sonic": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/realsonic.png"
+    "titleicon": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/titleicon.png",
+    "player": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/realsonic.png"
   }
 }
