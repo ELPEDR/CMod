@@ -1,10 +1,15 @@
 {
   "c2dictionary": true,
   "data": {
-    "name": "sonic",
-    "back": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/back.png",
-    "title": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/title.png",
-    "titleicon": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/titleicon.png",
-    "player": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/realsonic.png"
+    "name": "remaster",
+    "back": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/back.png",
+    "menu": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/menu1.png",
+    "spawn0": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/spawn0.png",
+    "spawn1": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/spawn1.png",
+    "spawn2": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/spawn2.png",
+    "spawn3": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/spawn3.png",
+    "spawn4": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/spawn4.png",
+    "spawn5": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/spawn5.png",
+    "player": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/remaster/pig.png"
   }
 }
