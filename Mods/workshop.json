@@ -1,7 +1,7 @@
 {
   "c2dictionary": true,
   "data": {
-    "Themes_quantity": 3,
+    "Themes_quantity": 4,
 
     "tema1_name": "Sonic",
     "tema1_preview": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/preview1.png",
@@ -15,8 +15,8 @@
     "tema3_preview": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/capa.png",
     "tema3_link": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/theme1.json",
 
-    "tema4_name": "Dove",
-    "tema4_preview": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themres/theme4/preview.png",
-    "tema4_link": "https://raw.githubusercontent.com/ELPEDR/on7Themes/main/themes/theme4.json"
+    "tema4_name": "CMod Translated 100 Times",
+    "tema4_preview": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/100%20time%20translated/capa.png",
+    "tema4_link": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/100%20time%20translated/theme1.json"
   }
 }
