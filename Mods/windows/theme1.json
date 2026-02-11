@@ -1,0 +1,17 @@
+{
+  "c2dictionary": true,
+  "data": {
+    "name": "windows",
+    "back": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/back.png",
+    "menu": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/menu1.png",
+    "spawn0": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/spawn0.png",
+    "spawn1": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/spawn1.png",
+    "spawn2": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/spawn2.png",
+    "spawn3": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/spawn3.png",
+    "spawn4": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/spawn4.png",
+    "spawn5": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/spawn5.png",
+    "title": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/title.png",
+    "titleicon": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/titleicon.png",
+    "player": "https://raw.githubusercontent.com/ELPEDR/CMod/refs/heads/main/Mods/windows/mouse.png"
+  }
+}
